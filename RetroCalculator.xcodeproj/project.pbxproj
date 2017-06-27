@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		601FB1EE1F00D2EF00451E30 /* Minecrafter.Reg.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 601FB1ED1F00D2EF00451E30 /* Minecrafter.Reg.ttf */; };
+		602CAD5C1F022B2800195123 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 602CAD5B1F022B2800195123 /* btn.wav */; };
 		605572E11F00BEC4006A0D32 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 605572E01F00BEC4006A0D32 /* AppDelegate.swift */; };
 		605572E31F00BEC4006A0D32 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 605572E21F00BEC4006A0D32 /* ViewController.swift */; };
 		605572E61F00BEC4006A0D32 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 605572E41F00BEC4006A0D32 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		601FB1ED1F00D2EF00451E30 /* Minecrafter.Reg.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Minecrafter.Reg.ttf; path = minecrafter/Minecrafter.Reg.ttf; sourceTree = "<group>"; };
+		602CAD5B1F022B2800195123 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 		605572DD1F00BEC4006A0D32 /* RetroCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RetroCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		605572E01F00BEC4006A0D32 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		605572E21F00BEC4006A0D32 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		605572DF1F00BEC4006A0D32 /* RetroCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				602CAD5B1F022B2800195123 /* btn.wav */,
 				601FB1ED1F00D2EF00451E30 /* Minecrafter.Reg.ttf */,
 				605572E01F00BEC4006A0D32 /* AppDelegate.swift */,
 				605572E21F00BEC4006A0D32 /* ViewController.swift */,
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				602CAD5C1F022B2800195123 /* btn.wav in Resources */,
 				605572EB1F00BEC4006A0D32 /* LaunchScreen.storyboard in Resources */,
 				605572E81F00BEC4006A0D32 /* Assets.xcassets in Resources */,
 				605572E61F00BEC4006A0D32 /* Main.storyboard in Resources */,
